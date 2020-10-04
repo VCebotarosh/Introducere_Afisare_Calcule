@@ -57,3 +57,5 @@ print("sunt",bancnote_10,"bancnote de 10")
 print("sunt",bancnote_5,"bancnote de 5")
 print("sunt",bancnote_2,"bancnote de 2")
 print("sunt",bancnote_1,"bancnote de 1")
+
+print("[+] Aceasta linie a fost adaugata recent")
