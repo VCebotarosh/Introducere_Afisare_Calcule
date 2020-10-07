@@ -57,4 +57,5 @@ print("sunt",bancnote_10,"bancnote de 10")
 print("sunt",bancnote_5,"bancnote de 5")
 print("sunt",bancnote_2,"bancnote de 2")
 print("sunt",bancnote_1,"bancnote de 1")
+print("Nr minim de bancnote este",bancnote_1000+bancnote_500+bancnote_200+bancnote_100+bancnote_50+bancnote_20+bancnote_10+bancnote_5+bancnote_2+bancnote_1)
 
